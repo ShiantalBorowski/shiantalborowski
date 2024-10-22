@@ -11,7 +11,7 @@ I’m Shiantal Borowski, a Web Developer with nearly a decade of experience buil
 
 ## On my radar
 
-- 🌱 Learning React, Angular, Python, Vue
+- 🌱 Learning React, Angular, Python
 
 ## 📫Get in Touch
 
